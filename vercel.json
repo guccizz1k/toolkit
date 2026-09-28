@@ -1,0 +1,4 @@
+{
+  "buildCommand": "unzip -q -o toolkit-static-beta-v6-1.zip",
+  "outputDirectory": "toolkit-v61-work"
+}
